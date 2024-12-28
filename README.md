@@ -1,5 +1,5 @@
 # UnofficialMC
-An Unofficial Minecraft 1.20.1....?  Only for education.
+An Unofficial Minecraft 1.20.1....?  Only for education use.
 
 How to use: 
 
