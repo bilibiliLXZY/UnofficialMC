@@ -22,3 +22,5 @@ Patcher.exe -------Patcher of patch file. open it and drag a file to the window,
 5. wait for it... when you pressed a key and window disappear, it finished the progress.
 
 6. open start.bat and have fun!
+
+----newest start.bat can be found on the 1.0 version with runtime.
