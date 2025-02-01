@@ -1,6 +1,8 @@
 # UnofficialMC
 An Unofficial Minecraft 1.20.1....?  Only for education use.
 
+*Almost all features are coded to Minecraft-Invulnerable-Mod repository.
+
 How to use: 
 
 1. download files:
